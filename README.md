@@ -2,8 +2,6 @@
 
 
 
-Languages and Tools:
-cplusplus  css3  git  html5  javascript  mongodb mysql  nodejs postgresql  react 
 
 
 <!---
